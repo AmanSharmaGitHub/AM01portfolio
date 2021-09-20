@@ -76,24 +76,17 @@ params:
         url: blogs/pageone
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
+        title: Page 2
+        url: blogs/pagetwo
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
+        title: Page 3
+        url: blogs/pagethree
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+        title: Page 4
+        url: blogs/pagefour
+
   two:
     buttonText: Get Started
     enable: yes
