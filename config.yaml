@@ -33,12 +33,12 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: Aman Akshay Sharma 2021
     enable: yes
     quicklinks:
-      - alt: HTML5 UP
-        text: 'Design: '
-        url: https://www.html5up.net
+      - alt: this cool guy
+        text: 'I learnt how to use R from '
+        url: https://www.linkedin.com/in/kostis-christodoulou-285147/
     social:
       - icon: fa-github
         label: GitHub
@@ -58,15 +58,15 @@ params:
     links:
       - name: Home
         url: '#'
-      - name: Blogs
+      - name: All Posts
         url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
+      - name: About Me
+        url: blogs/pageone
       - name: Elements
         url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+    subtitle: Portfolio Website
+    title: Aman
   tiles:
     enable: yes
     showcase:
@@ -88,13 +88,8 @@ params:
         url: blogs/pagefour
 
   two:
-    buttonText: Get Started
+    buttonText: R Analysis
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
+    subtitle: "Welcome to my portfolio website. Here you can find some work I have done on R while studying at London Business School."
+    title: Welcome!
     url: blogs
