@@ -5,10 +5,26 @@ categories:
 date: "2017-10-31T21:28:43-05:00"
 description: ""
 draft: false
-image: pic10.jpg
+image: Aman.jpg
 keywords: ""
 slug: pageone
-title: Ipsum
+title: About Me
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
+<h1> Aman's Bio </h1>
+
+Hello _Kostis_!, my name is **Aman Sharma** I am on the MAM course at London Business School.
+Some basic facts about me:
+
+* British, born and raised in South East England around 30 miles from London
+* Indian Ethnicity (Hindu Punjabi)
+* 23 years old
+
+In chronological order, this is what I have been up to since 2016:
+
+1. Studied *BSc Economics* at University College London
+2. Experimented with brief stints in IB, VC and startups
+3. Now working for a VC-backed SaaS startup and studying at LBS
+
+Here is a photo of me:
+![Aman](/Users/amansharmacraft/Desktop/pre_programme_assignment/Aman.jpg)

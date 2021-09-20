@@ -70,13 +70,13 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
+      - image: Aman.jpg
         subtitle: Ipsum Dolor Sit Amet
-        title: Page 1 
+        title: About Me
         url: blogs/pageone
-      - image: pic02.jpg
+      - image: hansrosling.jpeg
         subtitle: Feugiat Amet Tempus
-        title: Page 2
+        title: Gapminder Analysis
         url: blogs/pagetwo
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
