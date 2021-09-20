@@ -1,4 +1,4 @@
-baseURL: https://aman-sharma-am01portfolio.netlify.app/
+baseURL: https://www.aman-sharma-am01portfolio.netlify.app/
 languageCode: en-us
 title: Forty
 theme: forty
@@ -7,8 +7,7 @@ disqusShortname: ''
 params:
   banner:
     buttonText: Learn More
-    subtitle: |-
- HELLO, MY NAME IS AMAN. WELCOME TO MY PORTFOLIO WEBSITE!
+    subtitle: "HELLO, MY NAME IS AMAN. WELCOME TO MY PORTFOLIO WEBSITE!"
     title: Hello, my name is Aman.
   blog: {}
   contact:
