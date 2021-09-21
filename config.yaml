@@ -71,16 +71,16 @@ params:
     enable: yes
     showcase:
       - image: Aman.jpg
-        subtitle: Ipsum Dolor Sit Amet
+        subtitle: Who am I?
         title: About Me
         url: blogs/pageone
       - image: hansrosling.jpeg
-        subtitle: Feugiat Amet Tempus
+        subtitle: Global Living Standards
         title: Gapminder Analysis
         url: blogs/pagetwo
       - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Page 3
+        subtitle: It only goes up?
+        title: Financial Analysis
         url: blogs/pagethree
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
