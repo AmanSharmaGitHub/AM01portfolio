@@ -78,13 +78,13 @@ params:
         subtitle: Global Living Standards
         title: Gapminder Analysis
         url: blogs/pagetwo
-      - image: pic03.jpg
+      - image: NYSE.jpeg
         subtitle: It only goes up?
         title: Financial Analysis
         url: blogs/pagethree
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Page 4
+      - image: GSS.png
+        subtitle: Human Connection
+        title: Social Media Analysis
         url: blogs/pagefour
 
   two:
