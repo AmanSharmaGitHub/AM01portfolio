@@ -86,6 +86,10 @@ params:
         subtitle: Human Connection
         title: Social Media Analysis
         url: blogs/pagefour
+      - image: banner.png
+        subtitle: Contact Me
+        title: Get in touch
+        url: blogs/pagefive
 
   two:
     buttonText: R Analysis
